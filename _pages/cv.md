@@ -7,58 +7,26 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## **Education**
+* **University of Northeastern, 2023 - Present**
+  * Ph.D. in Mathematics
+* **University of Chicago, 2021 - 2023**
+  * Master in Computational and Applied Math
+* **Hainan University, 2017 - 2021**
+  * B.S. in Mathematics
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## **Awards & Scholarships**
+* The Best TA Award, 203-2024, Northeastern University
+* University Meritorious Scholarship,Top 1\%,2019-2021,Hainan University.
+* Hainan University Third-Class comprehensive scholarship,2018.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## **Teaching**
+* Teaching Assistant at the Northeastern University
+  * Real Analysis (Math 3510), Fall 2023, Spring 2024.
+  * REU, Summer 1
+  * Probability and Statistics (Math 3081), Summer 2 2024.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
